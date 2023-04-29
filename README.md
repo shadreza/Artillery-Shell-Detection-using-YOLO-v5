@@ -8,3 +8,11 @@ The Desktop app works on live and recorded videos and on them it detects the mis
 - Run YOLO on the video or live cam
 - Get the results 
 - See the projectile in 3d and get to see the burst or blind status
+
+### Accomplished - https://dl.acm.org/doi/10.1145/3582177.3582180
+
+"Tracking of Artillery Shells Using Optical Flow" was the title of my debut conference paper, presented in Macau, China.
+
+IPMV '23: Proceedings of the 2023 5th International Conference on Image Processing and Machine Vision
+January 2023
+Pages 12–17
